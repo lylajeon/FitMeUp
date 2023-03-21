@@ -1,12 +1,13 @@
 # :shirt: Fit me Up!
 
-CV-10
-## 조물주 김영민
-<br/>
+CV-10 조물주 김영민조 
+## Presentation
+- Presentation 
+  - video: [Youtube link](https://youtu.be/-ebnQaXjGAY)
+  - pdf: [presentation.pdf](https://github.com/lylajeon/FitMeUp/blob/main/presentation.pdf)
+  - final report: [report link](https://github.com/lylajeon/FitMeUp/blob/main/report.pdf)
 
 ## :notebook: Project Abstract
-<br/>
-
 ### :page_with_curl: Background
 
 국내 온라인 패션 시장이 코로나19의 영향으로 빠르게 성장했고, 앞으로도 그런 기조를 보일 예정입니다. 그러나 온라인에서 옷을 직접 입어보지 못해 고객들이 자신과 옷이 어울리는지 확인하기 어렵습니다. 저희는 Virtual Try-On 모델을 활용해 온라인 가상 피팅 서비스를 제공하여 많은 고객에게 편리한 서비스를 제공하려고 합니다.
